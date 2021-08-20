@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2014-03-31T14:50:56Z</time>
+<bounds minlat="10.585564634" minlon="-71.719069850" maxlat="10.590394954" maxlon="-71.708353221"/>
+<wpt lat="10.587459369" lon="-71.719069850">
+  <name>Parcela 1</name>
+  <cmt>Parcela 1</cmt>
+  <desc>Parcela 1</desc>
+</wpt>
+<wpt lat="10.588531376" lon="-71.716554911">
+  <name>Parcela 2</name>
+  <cmt>Parcela 2</cmt>
+  <desc>Parcela 2</desc>
+</wpt>
+<wpt lat="10.586682923" lon="-71.716940229">
+  <name>Parcela 3</name>
+  <cmt>Parcela 3</cmt>
+  <desc>Parcela 3</desc>
+</wpt>
+<wpt lat="10.586956686" lon="-71.714819863">
+  <name>Parcela 4</name>
+  <cmt>Parcela 4</cmt>
+  <desc>Parcela 4</desc>
+</wpt>
+<wpt lat="10.586692118" lon="-71.712580009">
+  <name>Parcela 5</name>
+  <cmt>Parcela 5</cmt>
+  <desc>Parcela 5</desc>
+</wpt>
+<wpt lat="10.585828495" lon="-71.710679123">
+  <name>Parcela 6</name>
+  <cmt>Parcela 6</cmt>
+  <desc>Parcela 6</desc>
+</wpt>
+<wpt lat="10.585564634" lon="-71.708353221">
+  <name>Parcela 7</name>
+  <cmt>Parcela 7</cmt>
+  <desc>Parcela 7</desc>
+</wpt>
+<wpt lat="10.590394954" lon="-71.711120890">
+  <name>Parcela 8</name>
+  <cmt>Parcela 8</cmt>
+  <desc>Parcela 8</desc>
+</wpt>
+</gpx>
