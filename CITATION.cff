@@ -1,9 +1,9 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Ferrer-Paris
-    given-names: José R.
+  - family-names: "Ferrer-Paris"
+    given-names: "José R."
     orcid: https://orcid.org/0000-0002-9554-3395
-title: NeoMapas/clima-JBM: Análisis de Estacionalidad Climática en el Jardín Botánico de Maracaibo
+title: "NeoMapas/clima-JBM: Análisis de Estacionalidad Climática en el Jardín Botánico de Maracaibo"
 version: v1.1
 date-released: 2017-12-18
